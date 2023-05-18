@@ -44,7 +44,7 @@ alpha.T2 <- 0.5
 alpha.E1 <- 0.5
 alpha.E2 <- 0.5
 
-lss <- 100
+lss <- 10000
 maxev <- 50
 
 data.obs.n   <- array(0,dim=c(lss,ls1,ls2,ls3,lds))
